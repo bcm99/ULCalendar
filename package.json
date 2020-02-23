@@ -1,0 +1,20 @@
+{
+  "name": "ULCalendar",
+  "version": "1.0.0",
+  "description": "Small program that will enable you to transfer your Guichet Course Schedule into your Google Calendar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcm99/ULCalendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcm99/ULCalendar/issues"
+  },
+  "homepage": "https://github.com/bcm99/ULCalendar#readme"
+}
